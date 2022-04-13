@@ -1,0 +1,6 @@
+com\item\member\common\api\CommonPage.class
+com\item\member\common\api\IResponseCode.class
+com\item\member\common\exception\CommonException.class
+com\item\member\common\api\CommonResult.class
+com\item\member\common\api\ResponseCode.class
+com\item\member\common\utils\SnowFlake.class
